@@ -5,7 +5,7 @@ import android.app.Application;
 import com.google.android.gms.ads.MobileAds;
 
 import papaya.in.admobopenads.AppOpenManager;
-
+//watch gradle and settings.gradle file also
 //openApp Ads code --->>>
 
 public class myApps extends Application {
